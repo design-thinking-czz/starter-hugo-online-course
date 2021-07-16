@@ -8,7 +8,7 @@ interests: []
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:
+    link: 
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/FyAgency
