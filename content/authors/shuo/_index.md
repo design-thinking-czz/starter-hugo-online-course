@@ -1,7 +1,7 @@
 ---
 title: 赵煜硕
 role: 2019级本科
-avatar_filename: lol.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests: []
