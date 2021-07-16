@@ -16,6 +16,12 @@ social:
     icon_pack: fab
     link: https://github.com/zhaoyushuo123
 organizations: []
+interests:
+- 掂来把你
+- 乌拉
+- 阿西吧
+- 达咩
+- 在申了在申了思密达
 education:
   courses: []
 email: ""
