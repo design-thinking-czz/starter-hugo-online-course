@@ -64,7 +64,9 @@ taxonomies:
   tag: tags
   category: categories
   publication_type: publication_types
-  author: authors
+  author: 
+  -authors
+  -shuo
 related:
   threshold: 80
   includeNewer: true
