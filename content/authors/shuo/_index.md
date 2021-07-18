@@ -22,8 +22,6 @@ interests:
 - 阿西吧
 - 达咩
 - 在申了在申了思密达
-education:
-  courses: []
 email: ""
 superuser: true
 user_groups:
