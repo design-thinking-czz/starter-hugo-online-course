@@ -14,8 +14,6 @@ social:
     icon_pack: fab
     link: https://github.com/Sidney233
 organizations: []
-education:
-  courses: []
 email: ""
 superuser: true
 user_groups:
