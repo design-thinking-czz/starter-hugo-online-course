@@ -2,19 +2,17 @@
 title: 陈熙之
 role: 2018级本科
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
-interests: []
+bio: ""
+interests:
+  - 游戏
+  - 动漫
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:test@example.org
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: mailto:10182100123@stu.ecnu.edu.cn
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/Sidney233
 organizations: []
 education:
   courses: []
