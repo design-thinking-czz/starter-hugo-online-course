@@ -10,4 +10,6 @@ social:
     label: ""
     link: https://github.com/zgl-ai
 superuser: true
+user_groups:
+  - Teachers
 ---
