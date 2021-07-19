@@ -1,8 +1,12 @@
 # IDEs
 .idea/
+.history/
+.lh/
 
 # Hugo
 /resources/
 public/
 jsconfig.json
 node_modules/
+
+
