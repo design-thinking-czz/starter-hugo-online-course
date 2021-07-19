@@ -4,11 +4,6 @@ cta_note:
 advanced:
   css_class: fullscreen
 widget: hero
-cta:
-  url: course/
-  label: Explore our courses
-  icon_pack: fas
-  icon: user-graduate
 widget_id: RECENT-POSTS
 headless: true
 weight: 10

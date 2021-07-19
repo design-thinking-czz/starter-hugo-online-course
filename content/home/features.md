@@ -7,15 +7,15 @@ subtitle: ✨ 在这里你可以
 feature:
   - icon: chalkboard-teacher
     icon_pack: fas
-    name: Slides
+    name: 幻灯片
     description: null
   - icon: video
     icon_pack: fas
-    name: Video
+    name: 视频
     description: null
   - icon: code
     icon_pack: fas
-    name: Math & Code
+    name: 代码实战
     description: null
 widget_id: RECENT-POSTS
 ---
