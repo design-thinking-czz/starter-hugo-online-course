@@ -5,17 +5,18 @@ weight: 20
 title: 特点
 subtitle: ✨ 在这里你可以
 feature:
-  - icon: eye
+  - icon: chalkboard-teacher
     icon_pack: fas
-    name: 可视化
+    name: 幻灯片
+    description: null
+  - icon: video
+    icon_pack: fas
+    name: 视频
+    url: '/course/example/'
     description: null
   - icon: code
     icon_pack: fas
-    name: 低代码
-    description: null
-  - icon: calculator
-    icon_pack: fas
-    name: 只需基础数学知识
+    name: 代码实战
     description: null
 widget_id: RECENT-POSTS
 ---
