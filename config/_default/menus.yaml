@@ -15,6 +15,11 @@ main:
     url: '/course/example/'
     weight: 10
     parent: courses
+  - name: 代码实战
+    url: '/course/training/'
+    weight: 10
+    parent: courses
+  - name: 博客
   - name: 博客
     url: '/post'
     weight: 30
