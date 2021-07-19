@@ -12,6 +12,7 @@ feature:
   - icon: video
     icon_pack: fas
     name: 视频
+    url: '/course/example/'
     description: null
   - icon: code
     icon_pack: fas
