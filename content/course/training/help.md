@@ -13,4 +13,4 @@ type: book
 ## 寻求帮助
 
 - [说明文档](0002.html)
-- [拖拉拽功能实现](../test01/test01.html)   暂不支持chrome浏览器，推荐使用ME浏览器
+- [拖拉拽功能实现](../test01/test01.html)
