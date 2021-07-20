@@ -20,3 +20,4 @@ type: book
 - [常用前端库](https://www.jq22.com/jquery/jquery.html)
 - [sula](https://build-sula.vercel.app)
 - [palyground](https://github.com/lin-xi/playground.git)
+- [pycare](https://github.com/design-thinking-czz/pycaret.git)
