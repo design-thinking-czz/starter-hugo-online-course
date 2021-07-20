@@ -15,3 +15,4 @@ type: book
 - [说明文档](../html/0002.html)
 - [拖拉拽功能实现] 本地运行test01目录
 - [功能对标目录](https://github.com/design-thinking-czz/starter-hugo-online-course/edit/main/content/course/training/html/0003.html)
+cancel changes后view raw即可查看
