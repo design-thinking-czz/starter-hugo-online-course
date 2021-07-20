@@ -20,7 +20,6 @@ main:
     weight: 10
     parent: courses
   - name: 博客
-  - name: 博客
     url: '/post'
     weight: 30
   - name: 联系我们
