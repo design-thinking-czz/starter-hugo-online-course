@@ -8,7 +8,7 @@ interests: []
 social:
   - icon: envelope
     icon_pack: fas
-    link: 
+    link: 10195501415@stu.ecnu.edu.cn
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/FyAgency

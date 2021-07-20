@@ -1,5 +1,5 @@
 ---
-title: 📚 Courses
+title: 📚 课程
 type: page
 
 header:
