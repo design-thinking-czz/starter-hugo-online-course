@@ -12,5 +12,8 @@ type: book
 
 ## 实训
 
-[配置文件安装](0000.html)
-[在html中开始](0001.html)
+- [配置文件安装](0000.html)
+- [在html中开始](0001.html)
+
+## 开发使用
+- [常用前端库](https://www.jq22.com/jquery/jquery.html)
