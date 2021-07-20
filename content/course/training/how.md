@@ -28,7 +28,9 @@ type: book
 
 - test02中存放了json最简样例
 - 组件渲染时针对二叉树采用深度优先遍历（后序遍历，先跑完子节点再跑根节点）和逐层向上渲染
-- ![image-20210720142736389](E:\Daima\ku\starter-hugo-online-course\content\course\training\image-20210720142736389.png)
+
+{{< figure src="featured.jpg" >}}
+
 - 先渲染9和10，然后作为children传给8，渲染8，然后渲染4，然后11，然后渲染8，然后渲染2
 
 ##### 组件名称
