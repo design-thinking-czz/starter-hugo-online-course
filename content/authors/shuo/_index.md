@@ -9,6 +9,8 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 
+    - 10195501415@stu.ecnu.edu.cn
+    - shuoshuo1zhi@gmail.com
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/FyAgency
