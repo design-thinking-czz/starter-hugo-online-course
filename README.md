@@ -3,9 +3,12 @@
 ## 博客地址
 https://design-thinking-czz.netlify.app/
 ## 开发库
-https://www.jq22.com/jquery/jquery.html
-https://build-sula.vercel.app
-https://github.com/lin-xi/playground.git
+
+- https://www.jq22.com/jquery/jquery.html
+- https://build-sula.vercel.app
+- https://github.com/lin-xi/playground.git
+- https://github.com/design-thinking-czz/pycaret.git
+
 # Wowchemy's Online Course Template for Hugo
 
 The **Online Course Template** empowers you easily create an online course or coaching business with our customizable yet simple all-in-one [**Wowchemy Website Builder**](https://wowchemy.com/) for [Hugo](https://github.com/gohugoio/hugo).
