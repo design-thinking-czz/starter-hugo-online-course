@@ -1,6 +1,6 @@
 ---
-title: 📊 机器学习
-linkTitle: 机器学习
+title: 📊 帮助
+linkTitle: 帮助
 summary: An example of using Wowchemy's Book layout for publishing online courses.
 date: '2021-01-24'
 type: book
@@ -12,5 +12,5 @@ type: book
 
 ## 寻求帮助
 
-[说明文档](0002.html)
-[拖拉拽功能实现](test01/test01.html)
+- [说明文档](0002.html)
+- [拖拉拽功能实现](../test01/test01.html)
