@@ -96,6 +96,84 @@ node.vnode={
 
 拖拽，点击显示属性
 
+##### 组件属性配置
+
+- 自定义属性组件加载
+- 组件实例props遍历
+- props类型判断，找到对应的表单组件
+- 从json渲染出表单
+- 表单值变更，更新componentTree JSON
+- 重新渲染
+
+##### 跨组件事件交互
+
+- 全局组件mixin
+- 界面创建 全局变量
+- 组件emit改变
+- 全局变量改变
+- 属性拼装到所有组件
+
+##### 组件扩展
+
+- git
+- npm
+- lerna
+
+###### 在线写码
+
+- 动态编译
+- (保存成文件，再动态编译)
+
+```
+let config ={
+	entry: {
+	RitComponent: [source],
+	},
+	output: {
+	path: distPath,
+	filename:compo.name+'.j'
+	publicPath: '',
+	library: compo.name,
+	libraryTarget: 'umd'
+	},
+```
+
+
+
+```
+webpack(config ,(err, stats) => {
+	if (err|| stats.hasErrors()) {
+		console.error(err);
+	}
+	console.log('compile success');
+	res.json({
+		error_no: 0,
+		error_msg: '',
+		result: {
+		js: distFile
+		}
+	});
+	});
+}
+```
+
+
+
+```
+api.compile().then((data)=>{
+	let reqjs = window['require'];
+	reqjs.config({
+		paths: {
+			compo: data.result.js
+		}
+	});
+	reqjs(['compo'],(Compo)=>{
+		Vue.component(Compo.name , Compo);
+		this.components.push(Compo.name);
+	});
+});
+```
+
 
 
 #### 主题
@@ -126,3 +204,15 @@ node.vnode={
 - 属性同步显示，配置数据实时渲染(编辑区和实施区渲染)
 - 3.低侵入性
 - 组件不要关心编辑功能的具体实现(拖拽，调整顺序);编辑和显示都是同一个组件；可以不关心属性的编辑
+
+
+
+## 发布流程
+
+发布
+
+发布 ------>组件拷贝(根据json拷贝引用的模块到编译模版中)------->编译(npm run build)---------->上传(静态资源文件上传cdn)---------->写文件(写html文件到磁盘)
+
+动态编译
+
+排队(队列|消息队列Buil)------>编译环境准备(shell调用|Node fork子进程)------>编译(日志回传|SSE WebSocket)
