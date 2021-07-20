@@ -1,0 +1,26 @@
+{
+    "cid":0,
+    "title":"",
+    "name":"root",
+    "path":"/",
+    "props":{
+
+    },
+    "children":[
+        {
+            "title":"",
+            "name":"xp-image",
+            "path":"common/Image/Image",
+            "props":{
+                "src":"http://someImage@w_750,q_80",
+                "link":"https://someLink",
+                "width":"100%",
+                "animation":"fadeIN 0 1"
+            },
+            "children":[
+
+            ],
+            "cid":"2-e8a58da8-6950-405e-afda-36847b8ef073"
+        }
+    ]
+}
