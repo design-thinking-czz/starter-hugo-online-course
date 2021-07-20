@@ -5,7 +5,7 @@ avatar_filename: avatar.jpg
 bio: ""
 interests:
   - 游戏
-  - 动漫
+  - 音乐
 social:
   - icon: envelope
     icon_pack: fas
