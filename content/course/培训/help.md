@@ -14,4 +14,4 @@ type: book
 
 - [说明文档](0002.html)
 - [拖拉拽功能实现] 本地运行test01目录
-- [功能对标目录](https://github.com/design-thinking-czz/starter-hugo-online-course/edit/main/content/course/training/0003.txt)
+- [功能对标目录](https://github.com/design-thinking-czz/starter-hugo-online-course/edit/main/content/course/training/0003.html)
