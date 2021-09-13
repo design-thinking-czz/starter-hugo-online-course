@@ -17,5 +17,6 @@ type: book
 
 ## 学习
 
-- [视频]（html/0000.html）
+- [视频](html/0000.html)
+- [代码样例](html/0000.html)
 
