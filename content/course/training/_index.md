@@ -12,12 +12,10 @@ type: book
 
 ## 实训
 
-- [配置文件安装](html/0000.html)
-- [在html中开始](html/0001.html)
+- [安装](html/0000.html)
+- [开始](html/0001.html)
 
-## 开发使用
+## 学习
 
-- [常用前端库](https://www.jq22.com/jquery/jquery.html)
-- [sula](https://build-sula.vercel.app)
-- [palyground](https://github.com/lin-xi/playground.git)
-- [pycare](https://github.com/design-thinking-czz/pycaret.git)
+- [视频]（html/0000.html）
+
